@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Kanishka Anand
-- 👀 I’m interested in Web & App Development, Artificial Intelligence and Machine Learning.
-- 🌱 I’m currently learning Data Structures & Algorithm.
+- 📍 Based in West Bengal, India. 
+- 👀 I’m interested in App Development, Artificial Intelligence and Machine Learning.
+- 🌱 I’m currently learning Data Structures & Algorithm and Dart.
 - 💞️ I know C, Python, HTML & CSS and MySql.
-- 📫 kanishkaadz@gmail.com
+- 📫 Connect with me:- kanishkaadz@gmail.com
 
 <!---
 kanishkadz/kanishkadz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
