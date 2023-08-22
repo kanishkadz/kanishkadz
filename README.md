@@ -16,7 +16,7 @@
 - 💻 &nbsp; Python | Dart | C  
 - 🌐 &nbsp; Android | Flutter | HTML | CSS | Bootstrap 
 - 🛢 &nbsp; MySQL 
-- 🔧 &nbsp; Android Studio | Visual Studio code | Git
+- 🔧 &nbsp; Android Studio | Visual Studio | Git
 - 🖥 &nbsp; Davinci Resolve | Premiere Pro | Photoshop
 
 <br>
