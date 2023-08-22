@@ -9,7 +9,7 @@
 - 💼 &nbsp; Android developer and front-end web developer.
 - 🌱 &nbsp; Enthusiast in Artificial Intelligence & Machine Learning.
 - ✍️ &nbsp; Making YouTube videos as side hustle.
-- 🥱 &nbsp; Wake. Learn. Practice, Sleep. 
+- 🥱 &nbsp; Wake. Learn. Practice. Sleep. 
 
 <h3>🛠 Tech Stack</h3>
 
