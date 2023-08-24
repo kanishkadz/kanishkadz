@@ -17,7 +17,7 @@
 - 🌐 &nbsp; Android | Flutter | HTML | CSS | Bootstrap 
 - 🛢 &nbsp; MySQL 
 - 🔧 &nbsp; Android Studio | Visual Studio | Git
-- 🖥 &nbsp; Davinci Resolve | Premiere Pro | Photoshop
+- 🖥 &nbsp; Davinci Resolve | Premiere Pro | Photoshop | Canva
 
 <br>
 
