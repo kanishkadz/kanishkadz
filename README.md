@@ -1,5 +1,4 @@
 <h2> Hey there! I'm Kanishka. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -14,10 +13,10 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Dart | C  
-- 🌐 &nbsp; Android | Flutter | HTML | CSS | Bootstrap 
+- 🌐 &nbsp; Android App | Front-End Web | UI/UX 
 - 🛢 &nbsp; MySQL 
-- 🔧 &nbsp; Android Studio | Visual Studio | Git
-- 🖥 &nbsp; Davinci Resolve | Premiere Pro | Photoshop | Canva
+- 🔧 &nbsp; Android Studio | Visual Studio Code | Git | GitHub
+- 🖥 &nbsp; Davinci Resolve | Premiere Pro | Photoshop | Canva | Figma 
 
 <br>
 
