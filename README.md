@@ -2,21 +2,20 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Flutter Application Development
+- 🔭 &nbsp; I’m currently learning Flutter Development
 - 🤔 &nbsp; Exploring new technologies and learning how they work (on what basis).
 - 🎓 &nbsp; Studying Computer Science Engineering, at Asansol Engineering College.
-- 💼 &nbsp; Android developer and front-end web developer.
-- 🌱 &nbsp; Enthusiast in Artificial Intelligence & Machine Learning.
+- 💼 &nbsp; Flutter developer, UI/UX designer and front-end web developer.
 - ✍️ &nbsp; Making YouTube videos as side hustle.
 - 🥱 &nbsp; Wake. Learn. Practice. Sleep. 
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Dart | C  
-- 🌐 &nbsp; Android App | Front-End Web | UI/UX 
+- 🌐 &nbsp; Flutter Dev | Front-End Web | UI/UX 
 - 🛢 &nbsp; MySQL 
 - 🔧 &nbsp; Android Studio | Visual Studio Code | Git | GitHub
-- 🖥 &nbsp; Davinci Resolve | Premiere Pro | Photoshop | Canva | Figma 
+- 🖥 &nbsp; Davinci Resolve | Premiere Pro | Photoshop | Canva | Figma | FlutterFlow | Adobe XD
 
 
 
