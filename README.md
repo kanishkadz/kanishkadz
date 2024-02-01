@@ -15,7 +15,7 @@
 - 🌐 &nbsp; Flutter Dev | Front-End Web | UI/UX 
 - 🛢 &nbsp; MySQL 
 - 🔧 &nbsp; Android Studio | Visual Studio Code | Git | GitHub
-- 🖥 &nbsp; Davinci Resolve | Premiere Pro | Photoshop | Canva | Figma | FlutterFlow | Adobe XD
+- 🖥 &nbsp; Davinci Resolve | Premiere Pro | Photoshop | Canva | Figma | FlutterFlow 
 
 
 
