@@ -7,7 +7,7 @@
 - 🎓 &nbsp; Studying Computer Science Engineering, at Asansol Engineering College.
 - 💼 &nbsp; Flutter developer, UI/UX designer and front-end web developer.
 - ✍️ &nbsp; Making YouTube videos as side hustle.
-- 🥱 &nbsp; Wake. Learn. Practice. Sleep. 
+- 🥱 &nbsp; Wake. Learn. Code. Sleep. 
 
 <h3>🛠 Tech Stack</h3>
 
